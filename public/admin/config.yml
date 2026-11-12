@@ -4,7 +4,7 @@
 # GitHub sign-in goes through app/api/auth and app/api/callback (needs GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET on Vercel).
 backend:
   name: github
-  repo: kartiktandon/noveralabs
+  repo: manav-jain3012/noveralabs-web
   branch: main
   # base_url is set to the site's own address in admin/index.html
   auth_endpoint: api/auth
